@@ -29,3 +29,21 @@ pip install docx-hitalent
 #### EXE: [Aqui](https://drive.google.com/file/d/1dCb8XwBQDQvQibfDA9PXyZDpY25bQR7p/view?usp=sharing)
 
 ![icons8-jenkins-48](https://github.com/pdromothe5/Assinador-Livre/assets/88502099/b4a48f1c-c00b-4124-a823-bc8a079be1c8)
+
+## OpenClaw Agent (agente inteligente) 🤖
+
+Para executar o agente inteligente local em modo conversa:
+
+```bash
+python agent.py
+```
+
+Comandos rápidos:
+- `/tools` para listar ferramentas
+- `/memory` para ver memória recente
+- `/clear` para limpar memória
+
+Perguntas de exemplo:
+- "Como assinar um PDF?"
+- "Como autenticar a hash?"
+- "O que essa hash significa?"
